@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "uiid": {
+      "type": "http",
+      "url": "https://uiid.linkspreed.com/mcp"
+    }
+  }
+}

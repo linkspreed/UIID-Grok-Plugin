@@ -1,0 +1,20 @@
+{
+  "name": "uiid",
+  "version": "1.0.0",
+  "description": "Manage sovereign digital identities, cryptographic aliases, verifiable credentials, zero-knowledge proofs, and delegated AI-agent identities through UIID.",
+  "author": {
+    "name": "LINKSPREED LLC",
+    "url": "https://uiid.linkspreed.com"
+  },
+  "homepage": "https://uiid.linkspreed.com",
+  "license": "Proprietary",
+  "keywords": [
+    "uiid",
+    "digital identity",
+    "identity wallet",
+    "verifiable credentials",
+    "zero knowledge proofs",
+    "ai agents"
+  ],
+  "logo": "assets/uiid-icon.png"
+}
